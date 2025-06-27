@@ -1,4 +1,4 @@
-{% extends "bsssase.html" %}
+{% extends "base.html" %}
 
 {% block outdated %}
   You're not viewing the latest version.
